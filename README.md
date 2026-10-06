@@ -7,7 +7,7 @@
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
-<img class="filament-hidden" src="art/cover.jpg" alt="Filament Rich Links">
+<img class="filament-hidden" src="https://raw.githubusercontent.com/asignua/filament-rich-links-docs/main/art/cover.jpg" alt="Filament Rich Links">
 
 Internal links for the [Filament](https://filamentphp.com) 5 `RichEditor`: the editor **picks a record**, the content stores
 the **record**, not a URL, and the address is filled in when the page is rendered.
@@ -59,7 +59,7 @@ plugin keeps working on the last release you received, and you can renew for fur
 Refunds are available within 14 days of purchase.
 
 **[Buy a licence on Anystack](https://checkout.anystack.sh/filament-rich-links)** — after the purchase you receive a licence key and
-access to the private Composer repository. See [LICENSE.md](LICENSE.md) for the licence terms.
+access to the private Composer repository. See [LICENSE.md](https://github.com/asignua/filament-rich-links-docs/blob/main/LICENSE.md) for the licence terms.
 
 ## Requirements
 
@@ -423,20 +423,20 @@ configure it there.
 
 The internal-link dialog: pick a type, search a record.
 
-![The internal link dialog](art/link-dialog.jpg)
+![The internal link dialog](https://raw.githubusercontent.com/asignua/filament-rich-links-docs/main/art/link-dialog.jpg)
 
 The same dialog in dark mode.
 
-![The internal link dialog in dark mode](art/link-dialog-dark.jpg)
+![The internal link dialog in dark mode](https://raw.githubusercontent.com/asignua/filament-rich-links-docs/main/art/link-dialog-dark.jpg)
 
 The toolbar button lights up while the cursor is inside an internal link.
 
-![The editor toolbar with the internal link button active](art/editor-toolbar.jpg)
+![The editor toolbar with the internal link button active](https://raw.githubusercontent.com/asignua/filament-rich-links-docs/main/art/editor-toolbar.jpg)
 
 What is stored versus what the page renders: the content keeps a marker, the site shows the current address; an unpublished target becomes plain text.
 
-![Stored markers next to the rendered addresses](art/rendered.jpg)
+![Stored markers next to the rendered addresses](https://raw.githubusercontent.com/asignua/filament-rich-links-docs/main/art/rendered.jpg)
 
 ## License
 
-Commercial: Single Project or Unlimited, each with one year of updates. See [LICENSE.md](LICENSE.md).
+Commercial: Single Project or Unlimited, each with one year of updates. See [LICENSE.md](https://github.com/asignua/filament-rich-links-docs/blob/main/LICENSE.md).
