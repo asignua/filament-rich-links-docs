@@ -2,6 +2,12 @@
 
 All notable changes to `asignua/filament-rich-links` are documented here.
 
+## v1.0.2 - 2026-10-08
+
+- Fix: the toolbar button no longer lights up on handler-only markers (an eEgnith `/ee-file/` link) that the dialog cannot edit; submitting it would have removed the link.
+- Fix: the picker's ordering and default title search are qualified with the table name, so a joined `LinkTarget::query()` no longer fails with an ambiguous-column error.
+- `scripts/` is export-ignored and no longer ships in the dist.
+
 ## v1.0.1 - 2026-10-06
 
 First public release, sold through Anystack. The `v1.0.0` tag (2026-10-02) was an internal pre-release:
