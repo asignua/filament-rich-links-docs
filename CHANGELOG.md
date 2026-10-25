@@ -2,6 +2,10 @@
 
 All notable changes to `asignua/filament-rich-links` are documented here.
 
+## v1.0.3 - 2026-10-25
+
+- Screenshots and the cover carry the «made in asign» mark; README shows the Stand With Ukraine badge.
+
 ## v1.0.2 - 2026-10-08
 
 - Fix: the toolbar button no longer lights up on handler-only markers (an eEgnith `/ee-file/` link) that the dialog cannot edit; submitting it would have removed the link.
