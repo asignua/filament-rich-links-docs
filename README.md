@@ -437,6 +437,15 @@ What is stored versus what the page renders: the content keeps a marker, the sit
 
 ![Stored markers next to the rendered addresses](https://raw.githubusercontent.com/asignua/filament-rich-links-docs/main/art/rendered.jpg)
 
+## More plugins by asign
+
+- [Rich Editor Toolkit](https://filamentphp.com/plugins/asign-rich-editor-toolkit) — paste cleanup, attributes and video links in the rich editor
+- [SEO Files](https://filamentphp.com/plugins/asign-seo-files) — sitemap, robots.txt and llms.txt
+- [Redirects](https://filamentphp.com/plugins/asign-redirects) — managed redirects and a 404 log
+- [Themes](https://filamentphp.com/plugins/asign-themes) — per-user and per-panel colour themes
+
+All plugins: <https://filamentphp.com/plugins?q=asign>
+
 ## License
 
 Commercial: Single Project or Unlimited, each with one year of updates. See [LICENSE.md](https://github.com/asignua/filament-rich-links-docs/blob/main/LICENSE.md).
