@@ -3,7 +3,7 @@
 > **Documentation only.** Filament Rich Links is a commercial plugin: this public repository holds its
 > documentation, changelog and licence terms. The package itself is installed from the private Composer
 > repository you get with a licence — [buy one on Anystack](https://checkout.anystack.sh/filament-rich-links).
-> Questions: support@asign.in.ua.
+> Questions: support@asign.tech.
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 

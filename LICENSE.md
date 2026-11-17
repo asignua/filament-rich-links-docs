@@ -9,7 +9,7 @@ This licence is an agreement between you (the **Licensee**) and the **Licensor**
 > Artem Pipenko, sole proprietor (jednoosobowa działalność gospodarcza)
 > ul. Piłsudskiego 32, 39-120 Sędziszów Małopolski, Poland
 > NIP 8133747251, REGON 367488000
-> Contact: support@asign.in.ua
+> Contact: support@asign.tech
 
 The Licensor grants licences to the Software under an exclusive licence from the Author, which includes
 the right to grant sublicences to end users.
@@ -95,7 +95,7 @@ The Licensee must not:
 ## 6. Refunds
 
 The Licensee may request a full refund within fourteen (14) days of purchase by writing to
-support@asign.in.ua. After a refund the licence ends: the licence key is revoked, and the Licensee must
+support@asign.tech. After a refund the licence ends: the licence key is revoked, and the Licensee must
 remove the Software from every Project.
 
 If the Licensee is a consumer, they agree, when they download the Software, that delivery of digital
